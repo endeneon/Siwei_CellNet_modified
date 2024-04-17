@@ -1,0 +1,1 @@
+This repo contains some homebrew R scripts used by Siwei for pluripotency tests in the same way as in https://github.com/CahanLab/PACNet. To see how it works, pull the repository and run MiNND_Ada_iPS_16Oct2023.R siweizhang@uchicago.edu
